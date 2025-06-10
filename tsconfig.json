@@ -5,7 +5,7 @@
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
     "incremental": true,
-    "lib": ["es2015"],
+    "lib": ["es6"],
     "module": "CommonJS",
     "moduleResolution": "Node",
     "newLine": "LF",
@@ -18,7 +18,7 @@
     "sourceMap": true,
     "strict": true,
     "stripInternal": true,
-    "target": "es2015"
+    "target": "es6"
   },
   "include": ["packages/*/src/**/*", "packages/*/test/**/*"]
 }
