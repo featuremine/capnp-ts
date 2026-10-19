@@ -33,7 +33,7 @@ const COMPILE_OPTIONS: ts.CompilerOptions = {
   sourceMap: false,
   strict: true,
   stripInternal: true,
-  target: ts.ScriptTarget.ES2015,
+  target: ts.ScriptTarget.ES2020,
 };
 
 export async function main(): Promise<void> {
