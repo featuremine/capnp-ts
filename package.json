@@ -1,4 +1,5 @@
 {
+  "name": "capnp-ts",
   "author": "featuremine",
   "bugs": {
     "url": "https://github.com/featuremine/capnp-ts/issues"
